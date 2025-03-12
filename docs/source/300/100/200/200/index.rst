@@ -5,7 +5,7 @@ In Microsoft Teams, from the Calendar tab, choose "New event".
 
 Make sure you select the calendar of the team you are creating a Sprint event for (e.g. Team IT 1: DS Cloud) which you created earlier.
 
-Name the Daily Standup "Team" + blank space + "DEPARTMENT NAME" + "TEAM NUMBER" + ":" + blank space+ "SERVICE NAME" + blank space + "NICKNAME" + blank space + "-" + "Sprint Review".
+Name the Daily Standup "Team" + blank space + "DEPARTMENT NAME" + "TEAM NUMBER" + ":" + blank space+ "SERVICE NAME" + blank space + "NICKNAME" + blank space + "-" + blank space + "Sprint Review".
 
 Where:
 
