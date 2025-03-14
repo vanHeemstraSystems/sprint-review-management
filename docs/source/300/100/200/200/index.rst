@@ -24,7 +24,7 @@ Note: This is NOT and "All day" event.
 
 Recommended: Good practise is to hold your Sprint Review at the end of your Sprint.
 
-See [Who leads the Sprint Review?](https://medium.com/@agilefreya/who-leads-the-sprint-review-6dec5907c1a6). 
+See [Who leads the Sprint Review?](https://medium.com/@agilefreya/who-leads-the-sprint-review-6dec5907c1a6). Well, everyone.
 
 "The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation."
 
